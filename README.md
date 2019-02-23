@@ -7,6 +7,11 @@ LeisureCoin (LeisureCoin)
 - Masternode is collateral of 10,000 LeisureCoin.
 
 
+(Above this line = original README.md)
+--------------------------------------
+(Below are my basic preparation for the practice)
+
+
 Genesis Block & Merkle hash Info
 ================================
 
